@@ -1,0 +1,2 @@
+# Campul-electromagnetic
+"Câmpul electromagnetic" este o aplicatie cu care putem invăța mai ușor unele lecții la fizică. Acest program ne ajută să invățăm despre cămpul electromagnetic si inducția electromagnetică.Pe lângă cursuri avem un experiment si două jocuri care să ne ajute să înțelegem mai bine lecțiile.Iar la sfârșit utilizatorul își poate testa cunoștințele despre câmpul electromagnetic  printr-un test.
